@@ -1,8 +1,9 @@
 # Sorting Algorithms
 
-![](https://sp-ao.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_750/https://simplesnippets.tech/wp-content/uploads/2019/07/bubble-sort-sorting-algorithm.jpg)
+project work by:
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2x8GeiLD2O8kQMi_nu59o69xACZT2MhPuw&usqp=CAU)
+1. magadanineo
+2. Samuel stephen
 
 ## General
 
